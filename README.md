@@ -43,5 +43,13 @@
   </div>
 
   <br/>
+  <hr/>
+  <br/>
+
+  ![Uttamapaksa GitHub stats](https://github-readme-stats.vercel.app/api?username=uttamapaksa&hide=contribs,prs)
+
+  <br/>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
 
 </div>
