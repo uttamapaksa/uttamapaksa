@@ -4,8 +4,8 @@
   <h2>Contact</h2>
 
   <div>
-    <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a>
+    <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   </div>
   <br/>
 
@@ -16,7 +16,7 @@
   <div id="skills">
   <h2>Skills</h2>
   
-  <b>Back-end</b>
+  <b>BE</b>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
@@ -24,7 +24,7 @@
   </div>
   <br/>
   
-  <b>Front-end</b>
+  <b>FE</b>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
