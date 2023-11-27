@@ -16,7 +16,7 @@
   <div id="skills">
   <h2>Skills</h2>
   
-  <b>BE</b>
+  <b>Backend</b>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
@@ -24,7 +24,7 @@
   </div>
   <br/>
   
-  <b>FE</b>
+  <b>Frontend</b>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
