@@ -37,7 +37,7 @@
 
   <b>Others</b>
   <div>
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-#05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   </div>
