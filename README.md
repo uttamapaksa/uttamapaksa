@@ -50,8 +50,6 @@
   <div id="Algorithm">
   <h2>Algorithm</h2>
 
-  <b>Baekjoon</b>
-  <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
 
   </div>
