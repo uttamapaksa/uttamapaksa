@@ -50,8 +50,10 @@
   <div id="Algorithm">
   <h2>Algorithm</h2>
 
-  [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
-  [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_js)](https://solved.ac/uttamapaksa_js/)
+  <div>
+    <a href="https://solved.ac/uttamapaksa/"><img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa"/></a>
+    <a href="https://solved.ac/uttamapaksa_js/"><img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_js"/></a>
+  </div>
 
   </div>
 
