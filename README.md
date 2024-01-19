@@ -51,16 +51,12 @@
   <h2>Algorithm</h2>
 
   <div>
-    <a href="https://solved.ac/uttamapaksa/">
-      <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa"/>
-    </a>&emsp;
-    <a href="https://solved.ac/uttamapaksa_js/">
-      <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_js"/>
-    </a>&emsp;
-    </a>
-    <a href="https://solved.ac/uttamapaksa_java/">
-      <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_java"/>
-    </a>
+    <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa"/><a href="https://solved.ac/uttamapaksa/"></a>
+    </img>
+    <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_js"/><a href="https://solved.ac/uttamapaksa_js/"></a>
+    </img>
+    <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_java"/><a href="https://solved.ac/uttamapaksa_java/"></a>
+    </img>
   </div>
 
   </div>
