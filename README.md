@@ -51,7 +51,6 @@
   <h2>Algorithm</h2>
 
   [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
-  [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa_js)](https://solved.ac/uttamapaksa_js/)
 
   </div>
 
