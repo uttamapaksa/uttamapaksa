@@ -5,7 +5,7 @@
 
   <div>
     <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a>
+    <!-- <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a> -->
   </div>
   <br/>
 
