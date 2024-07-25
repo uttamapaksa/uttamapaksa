@@ -1,15 +1,16 @@
 <div align="center">
 
-  <div id="contact">
+  <!-- <div id="contact">
   <h2>Contact</h2>
 
   <div>
     <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <!-- <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a> -->
+    <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a>
   </div>
   <br/>
 
-  </div>
+  </div> -->
+  <!-- contact -->
 
   <br/>
 
@@ -19,8 +20,11 @@
   <b>Backend</b>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=SQLite&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   </div>
   <br/>
   
@@ -44,14 +48,16 @@
   <br/>
 
   </div>
+  <!-- skills -->
 
   <br/>
 
-  <div id="Algorithm">
+  <div id="algorithm">
   <h2>Algorithm</h2>
 
   [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
 
   </div>
+  <!-- Algorithm -->
 
 </div>
