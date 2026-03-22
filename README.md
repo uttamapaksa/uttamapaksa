@@ -1,63 +1,37 @@
-<div align="center">
+<div>
 
-  <!-- <div id="contact">
-  <h2>Contact</h2>
-
-  <div>
-    <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://uttamapaksa.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-  </div>
-  <br/>
-
-  </div> -->
-  <!-- contact -->
-
-  <br/>
-
-  <div id="skills">
-  <h2>Skills</h2>
+  ### Contact
   
-  <b>Frontend</b>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> -->
-  </div>
-  <br/>
+  <a href="mailto:uttamapaksa@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://uttamapaksa.me"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=vercel&logoColor=white"></a>
+  
+  #
 
-  <b>Backend</b>
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> -->
-  </div>
-  <br/>
-
-  <b>Others</b>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  </div>
-  <br/>
-
-  </div>
-  <!-- skills -->
+  ### Tech Stack
+  
+  #### main
+  <span></span>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  
+  #### sub
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-f89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white">
 
   <br/>
 
-  <div id="algorithm">
-  <h2>Algorithm</h2>
-
-  [![Solved.ac Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/uttamapaksa/)
-
-  </div>
-  <!-- Algorithm -->
+  #
+  
+  ### Algorithm
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uttamapaksa)](https://solved.ac/profile/uttamapaksa)
 
 </div>
